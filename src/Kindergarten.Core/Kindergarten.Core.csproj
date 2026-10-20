@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.1.7" />
+    <PackageReference Include="PDFsharp" Version="6.2.4" />
+    <EmbeddedResource Include="../../db/schema.sql" Link="schema.sql" />
+    <EmbeddedResource Include="../../res/fonts/OpenSans.ttf" Link="OpenSans.ttf" />
+  </ItemGroup>
+</Project>

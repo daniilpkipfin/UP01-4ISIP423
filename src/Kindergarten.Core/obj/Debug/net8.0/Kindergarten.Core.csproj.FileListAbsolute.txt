@@ -1,0 +1,14 @@
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\bin\Debug\net8.0\Kindergarten.Core.deps.json
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\bin\Debug\net8.0\Kindergarten.Core.dll
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\bin\Debug\net8.0\Kindergarten.Core.pdb
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\Kindergarten.Core.csproj.AssemblyReference.cache
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\Kindergarten.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\Kindergarten.Core.AssemblyInfoInputs.cache
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\Kindergarten.Core.AssemblyInfo.cs
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\Kindergarten.Core.csproj.CoreCompileInputs.cache
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\Kindergarten.Core.sourcelink.json
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\Kindergarten.Core.dll
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\refint\Kindergarten.Core.dll
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\Kindergarten.Core.pdb
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\ref\Kindergarten.Core.dll
+C:\Users\danii\Desktop\УП.01.01_ГОТОВО_К_СДАЧЕ\GitHub_UP01-4ISIP423\src\Kindergarten.Core\obj\Debug\net8.0\Kinderga.FBDE256A.Up2Date

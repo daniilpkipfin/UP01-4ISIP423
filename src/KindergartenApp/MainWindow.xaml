@@ -1,0 +1,20 @@
+<Window x:Class="KindergartenApp.MainWindow"
+ xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+ xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+ Title="Сеть детских садов" Width="1280" Height="820" MinWidth="1050" MinHeight="700"
+ WindowStartupLocation="CenterScreen" Icon="res/logo.png" Style="{StaticResource {x:Type Window}}">
+ <Grid Margin="20">
+  <Grid.RowDefinitions><RowDefinition Height="Auto"/><RowDefinition Height="Auto"/><RowDefinition Height="*"/><RowDefinition Height="Auto"/></Grid.RowDefinitions>
+  <Grid Margin="0,0,0,12">
+   <Grid.ColumnDefinitions><ColumnDefinition Width="64"/><ColumnDefinition Width="*"/><ColumnDefinition Width="Auto"/></Grid.ColumnDefinitions>
+   <Image Source="res/logo.png" Width="52" Height="52" ToolTip="Логотип из задания"/>
+   <StackPanel Grid.Column="1" VerticalAlignment="Center"><TextBlock Text="Сеть детских садов" FontSize="22" FontWeight="SemiBold"/><TextBlock x:Name="PageTitle" Text="Авторизация"/></StackPanel>
+   <StackPanel Grid.Column="2" Orientation="Horizontal"><Button Content="Сменить тему" Click="Theme_Click" ToolTip="Переключить светлую и темную темы"/><Button Content="Закрыть" Click="Close_Click" ToolTip="Закрыть приложение"/></StackPanel>
+  </Grid>
+  <WrapPanel Grid.Row="1" x:Name="Navigation" Margin="0,0,0,10"/>
+  <Border Grid.Row="2" Background="{DynamicResource SurfaceBrush}" BorderBrush="{DynamicResource BorderBrush}" BorderThickness="1" CornerRadius="7">
+   <Frame x:Name="MainFrame" NavigationUIVisibility="Hidden" JournalOwnership="OwnsJournal"/>
+  </Border>
+  <DockPanel Grid.Row="3" Margin="0,12,0,0"><TextBlock x:Name="Clock" DockPanel.Dock="Right"/><TextBlock x:Name="AccountInfo" Text="УП.01.01 | Попов Д.С. | 4ИСИП-423"/></DockPanel>
+ </Grid>
+</Window>

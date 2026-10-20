@@ -1,0 +1,11 @@
+**/bin/
+**/obj/
+.vs/
+app/
+*.user
+*.suo
+*.pdb
+*.log
+test-output/
+screenshots/
+*.bundle

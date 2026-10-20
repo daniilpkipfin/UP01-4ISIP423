@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <EnableWindowsTargeting>true</EnableWindowsTargeting>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <ApplicationIcon>../../res/app.ico</ApplicationIcon>
+    <AssemblyName>KindergartenNetwork</AssemblyName>
+    <RootNamespace>KindergartenApp</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="../Kindergarten.Core/Kindergarten.Core.csproj" />
+    <Resource Include="../../res/logo.png" Link="res/logo.png" />
+    <Resource Include="../../res/fonts/OpenSans.ttf" Link="res/fonts/OpenSans.ttf" />
+  </ItemGroup>
+</Project>
